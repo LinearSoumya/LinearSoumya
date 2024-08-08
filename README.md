@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyadip Roy
 - 👀 I’m interested in Data Science , Machine Learning and AI Domain 📈
-- 🇮🇳  I’m currently learning AI emplementetion on cloud platforms like AWS , GCP ☁️.
+- ⏳  I’m currently learning AI emplementetion on cloud platforms like AWS , GCP ☁️.
 - 💡 I’m looking for fulltime oppertunity in Data Science and Machine Learning domain .
 - ✉  Gmail : rsoumya0206@gmail.com
 - 📞 call : 9749123886
